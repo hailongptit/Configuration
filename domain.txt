@@ -1,0 +1,19 @@
+{
+interId: "ca-app-pub-7304557026281984/7978279955",
+adsType: 0,
+analyticId: "",
+numberInterShow: 0,
+banerId: "ca-app-pub-7304557026281984/3759351154",
+debug: "false",
+plusActLocation: "",
+code: 1,
+pushPid: "752645872931",
+plusPackage: "",
+adsPosition: 0,
+country: "UNKNOW",
+ip: "0.0.0.0",
+pushId: "a0cd6f71-985a-467b-aea1-106e5d77fb17",
+adsActLocation: "win lose",
+moreGame: [ ],
+adsPlatform: 1
+}
