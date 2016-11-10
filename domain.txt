@@ -13,7 +13,7 @@ adsPosition: 0,
 country: "UNKNOW",
 ip: "0.0.0.0",
 pushId: "03a0b9ac-456e-4ee0-8328-92e9d740ec95",
-adsActLocation: "win lose",
+adsActLocation: "congarats over quit cusarrow",
 moreGame: [ ],
 adsPlatform: 1
 }
