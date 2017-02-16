@@ -1,9 +1,9 @@
 {
-interId: "/112517806/NguyenHaiLongAndroidInterstitial",
+interId: "",
 adsType: 0,
 analyticId: "",
 numberInterShow: 0,
-banerId: "/112517806/NguyenHaiLongAndroidStandard",
+banerId: "",
 debug: "false",
 plusActLocation: "",
 code: 1,
