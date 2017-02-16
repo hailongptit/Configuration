@@ -1,9 +1,9 @@
 {
-interId: "",
+interId: "ca-app-pub-7304557026281984/7978279955",
 adsType: 0,
 analyticId: "",
 numberInterShow: 0,
-banerId: "",
+banerId: "ca-app-pub-7304557026281984/3759351154",
 debug: "false",
 plusActLocation: "",
 code: 1,
